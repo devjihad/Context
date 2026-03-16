@@ -5,7 +5,7 @@ const Dashboard = () => {
     const {focus}=useContext(DataProvider)
     return (
         <div>
-           <h1>dfghfh</h1> 
+           <h1>this is Dashboard</h1> 
         </div>
     );
 };
